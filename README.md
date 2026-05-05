@@ -5,6 +5,14 @@ This project analyzes mobile usage behavior to identify patterns and trends usin
 
 ---
 
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
 ## 🎯 Objective
 - Analyze user behavior based on screen time and usage patterns  
 - Identify trends across different age groups  
