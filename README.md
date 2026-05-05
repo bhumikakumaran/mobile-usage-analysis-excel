@@ -30,13 +30,13 @@ This project analyzes mobile usage behavior to identify user patterns and trends
 
 ## 📊 Dashboard Preview
 
-**👥 User Distribution**  
+**1. User Distribution**  
 ![User Distribution](images/overview.png)
 
-**📱 Screen Time by Age Group**  
+**2. Screen Time by Age Group**  
 ![Screen Time](images/screen-time-age.png)
 
-**🔋 Battery Usage by User Type**  
+**3. Battery Usage by User Type**  
 ![Battery Usage](images/battery-usage.png)
 
 ---
