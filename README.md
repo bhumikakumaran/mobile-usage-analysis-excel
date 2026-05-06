@@ -6,7 +6,7 @@ This project analyzes mobile usage behavior to identify user patterns and trends
 ---
 
 ## 🛠️ Tools & Technologies
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=flat-square)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=flat-square)
